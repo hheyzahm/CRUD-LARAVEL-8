@@ -34,12 +34,24 @@ Edit Data view
 
 ![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20update%20data.png?raw=true)
 
- Add Data view on success of addition of data in mysql Database
+ Now after data updation success
 
-![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20add%20succes.png?raw=true)
+![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/updated.png?raw=true)
 
+
+## Delete Data
+
+Delete Data before
+
+![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/before%20Delete.png?raw=true)
+
+ Delete Data before
+
+![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20update%20data.png?raw=true)
+
+ 
 ## Show data
 
-Show after addition of new data 
+Show Data View 
 
-![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20creating%20new%20student%20data.png?raw=true)
+![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/updated.png?raw=true)
