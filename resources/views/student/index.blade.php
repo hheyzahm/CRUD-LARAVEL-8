@@ -39,7 +39,7 @@
                                 <td>{{ $item->name }}</td>
                                 <td>{{ $item->email }}</td>
                                 <td>{{ $item->course }}</td>
-                                <td>{{ $item->course }}</td>
+                                <td>{{ $item->section }}</td>
                                 <td>
                                     <a href="{{ url('edit-student/'.$item->id) }}" class="btn btn-primary btn-sm">Edit</a>
                                 </td>
