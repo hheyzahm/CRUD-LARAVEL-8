@@ -35,11 +35,12 @@
                         <tbody>
                             @foreach ($student as $item)
                             <tr>
+                                
                                 <td>{{ $item->id }}</td>
                                 <td>{{ $item->name }}</td>
                                 <td>{{ $item->email }}</td>
                                 <td>{{ $item->course }}</td>
-                                <td>{{ $item->section }}</td>
+                                <td>{{  $item->section }}</td>
                                 <td>
                                     <a href="{{ url('edit-student/'.$item->id) }}" class="btn btn-primary btn-sm">Edit</a>
                                 </td>
