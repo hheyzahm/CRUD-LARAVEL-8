@@ -47,7 +47,7 @@ Delete Data before
 
  Delete Data before
 
-![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20update%20data.png?raw=true)
+![alt text](https://github.com/hheyzahm/CRUD-LARAVEL-8/blob/master/Images/after%20delete.png?raw=true)
 
  
 ## Show data
